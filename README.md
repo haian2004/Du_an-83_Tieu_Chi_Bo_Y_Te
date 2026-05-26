@@ -1,4 +1,4 @@
-🏥 Hospital KPI Dashboard Project (83 Bộ Tiêu Chí Bộ Y Tế)
+##🏥 Hospital KPI Dashboard Project (83 Bộ Tiêu Chí Bộ Y Tế)
 
 📌 Giới thiệu dự án
 
@@ -94,7 +94,9 @@ Tạo nền tảng cho phân tích dữ liệu y tế nâng cao (AI, dự báo)
 Dashboard Power BI (nếu có link thì thêm vào đây)
 Dataset (nếu public)
 Hình ảnh dashboard
+
 👤 Tác giả
+
 Nguyễn Hải An
 
 Data Analyst Intern
